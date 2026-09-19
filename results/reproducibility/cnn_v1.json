@@ -1,0 +1,20 @@
+{
+  "run_id": "cnn_v1",
+  "git_commit": "890397d7ed3df0fc377f3bd6426b2763b1ea8bf8",
+  "dataset_hash": "fdde45b3aa7dfd1621f7b08615c113c928cd929df34f90dfbe5fca62473284ef",
+  "config_path": "configs\\datasets\\multi_mod_presence_v1.yaml",
+  "config_content": "dataset:\n  samples:\n    train: 50000\n    validation: 10000\n    test: 10000\n\n  snr_db:\n    minimum: -20\n    maximum: 20\n\n  frequency_offset:\n    minimum_fraction_fs: -0.20\n    maximum_fraction_fs: 0.20\n\n  class_balance:\n    signal_present: 0.50\n    noise_only: 0.50\n\n  modulation_balance:\n    CW: 0.20\n    BPSK: 0.20\n    QPSK: 0.20\n    BFSK: 0.20\n    FMCW: 0.20\n\ntraining:\n  max_epochs: 50\n  batch_size: 64\n  learning_rate: 0.001\n\n  early_stopping:\n    enabled: true\n    patience: 5\n    monitor: validation_loss\n    min_delta: 0.0001\n\ncheckpoint:\n  save_best_only: true\n  monitor: validation_loss\n",
+  "seed": 42,
+  "library_versions": {
+    "torch": "2.14.0+cpu",
+    "yaml": "6.0.3",
+    "numpy": "2.4.6"
+  },
+  "hardware": {
+    "gpu_count": 0,
+    "gpus": [],
+    "torch_version": "2.14.0+cpu",
+    "numpy_version": "2.4.6",
+    "cuda_version": null
+  }
+}

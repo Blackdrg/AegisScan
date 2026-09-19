@@ -1,0 +1,112 @@
+{
+  "RoundRobin": {
+    "mean": {
+      "reward": 87.5,
+      "detections": 87.66666666666667,
+      "false_alarms": 0.3333333333333333,
+      "avg_aoi": 3.4475,
+      "rf_util": 1.0,
+      "ir_util": 0.0,
+      "switching": 200.0,
+      "intercepts": 87.66666666666667
+    },
+    "std": {
+      "reward": 1.7795130420052185,
+      "detections": 1.8856180831641267,
+      "false_alarms": 0.4714045207910317,
+      "avg_aoi": 0.0,
+      "rf_util": 0.0,
+      "ir_util": 0.0,
+      "switching": 0.0,
+      "intercepts": 1.8856180831641267
+    }
+  },
+  "Greedy": {
+    "mean": {
+      "reward": 197.0,
+      "detections": 197.0,
+      "false_alarms": 0.0,
+      "avg_aoi": 86.73458333333333,
+      "rf_util": 1.0,
+      "ir_util": 0.0,
+      "switching": 3.0,
+      "intercepts": 197.0
+    },
+    "std": {
+      "reward": 0.816496580927726,
+      "detections": 0.816496580927726,
+      "false_alarms": 0.0,
+      "avg_aoi": 0.306570976918703,
+      "rf_util": 0.0,
+      "ir_util": 0.0,
+      "switching": 1.4142135623730951,
+      "intercepts": 0.816496580927726
+    }
+  },
+  "UCB": {
+    "mean": {
+      "reward": 169.16666666666666,
+      "detections": 169.33333333333334,
+      "false_alarms": 0.3333333333333333,
+      "avg_aoi": 17.644375,
+      "rf_util": 0.49,
+      "ir_util": 0.51,
+      "switching": 194.66666666666666,
+      "intercepts": 169.33333333333334
+    },
+    "std": {
+      "reward": 0.8498365855987975,
+      "detections": 0.9428090415820634,
+      "false_alarms": 0.4714045207910317,
+      "avg_aoi": 0.7515558514951933,
+      "rf_util": 0.007071067811865482,
+      "ir_util": 0.007071067811865482,
+      "switching": 5.557777333511022,
+      "intercepts": 0.9428090415820634
+    }
+  },
+  "Thompson": {
+    "mean": {
+      "reward": 190.33333333333334,
+      "detections": 190.33333333333334,
+      "false_alarms": 0.0,
+      "avg_aoi": 45.8725,
+      "rf_util": 0.4033333333333333,
+      "ir_util": 0.5966666666666667,
+      "switching": 136.0,
+      "intercepts": 190.33333333333334
+    },
+    "std": {
+      "reward": 2.0548046676563256,
+      "detections": 2.0548046676563256,
+      "false_alarms": 0.0,
+      "avg_aoi": 2.046764469025849,
+      "rf_util": 0.06737127643802578,
+      "ir_util": 0.0673712764380258,
+      "switching": 3.265986323710904,
+      "intercepts": 2.0548046676563256
+    }
+  },
+  "LinUCB": {
+    "mean": {
+      "reward": 145.5,
+      "detections": 145.66666666666666,
+      "false_alarms": 0.3333333333333333,
+      "avg_aoi": 6.507291666666667,
+      "rf_util": 0.4766666666666666,
+      "ir_util": 0.5233333333333333,
+      "switching": 151.0,
+      "intercepts": 145.66666666666666
+    },
+    "std": {
+      "reward": 0.408248290463863,
+      "detections": 0.4714045207910317,
+      "false_alarms": 0.4714045207910317,
+      "avg_aoi": 0.1234279620084346,
+      "rf_util": 0.012472191289246459,
+      "ir_util": 0.012472191289246483,
+      "switching": 2.160246899469287,
+      "intercepts": 0.4714045207910317
+    }
+  }
+}

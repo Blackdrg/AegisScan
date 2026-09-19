@@ -1,0 +1,58 @@
+         37434 function calls in 0.045 seconds
+
+   Ordered by: cumulative time
+   List reduced from 95 to 50 due to restriction <50>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.001    0.001    0.047    0.047 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:166(run)
+      249    0.004    0.000    0.039    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:227(_process_event)
+      250    0.002    0.000    0.023    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:118(_schedule_next_action)
+      251    0.008    0.000    0.020    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:369(get_state)
+      249    0.002    0.000    0.005    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\belief_state.py:57(update)
+      251    0.001    0.000    0.004    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\state.py:34(__post_init__)
+      753    0.003    0.000    0.003    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\.venv\Lib\site-packages\numpy\_core\numeric.py:170(ones)
+      249    0.003    0.000    0.003    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\detection\energy.py:40(detect)
+      251    0.000    0.000    0.003    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\aoi.py:39(get_weighted_aoi)
+        1    0.000    0.000    0.003    0.003 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:65(reset)
+      249    0.000    0.000    0.003    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\.venv\Lib\site-packages\numpy\_core\fromnumeric.py:2207(clip)
+      250    0.000    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\engine.py:221(_fast_forward_env)
+      249    0.000    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\.venv\Lib\site-packages\numpy\_core\fromnumeric.py:48(_wrapfunc)
+      249    0.001    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\knowledge_engine.py:29(update)
+      500    0.001    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\environment.py:75(step)
+      249    0.000    0.000    0.002    0.000 {method 'clip' of 'numpy.generic' objects}
+      249    0.001    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\metrics\performance.py:41(record)
+      251    0.001    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\state.py:48(update)
+      251    0.002    0.000    0.002    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\aoi.py:35(get_aoi)
+      249    0.001    0.000    0.001    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\.venv\Lib\site-packages\numpy\_core\_methods.py:96(_clip)
+     1255    0.001    0.000    0.001    0.000 {method 'copy' of 'numpy.ndarray' objects}
+      251    0.001    0.000    0.001    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\belief_state.py:117(get_all_beliefs)
+      251    0.001    0.000    0.001    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\aoi.py:16(calculate_weights)
+     2010    0.001    0.000    0.001    0.000 {built-in method numpy.zeros}
+     2943    0.001    0.000    0.001    0.000 {built-in method builtins.max}
+      249    0.000    0.000    0.001    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\environment.py:111(observe)
+     4006    0.001    0.000    0.001    0.000 {method 'get' of 'dict' objects}
+      250    0.000    0.000    0.001    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\scheduling\baselines\round_robin.py:20(select_action)
+     2445    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+      501    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\ground_truth.py:17(clear)
+      501    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\ground_truth.py:41(close_inactive_events)
+      748    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\event_queue.py:22(is_empty)
+      251    0.000    0.000    0.000    0.000 {built-in method builtins.sum}
+      755    0.000    0.000    0.000    0.000 {built-in method numpy.empty}
+      249    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\belief_state.py:95(get_fused_belief)
+      748    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\feedback_router.py:19(publish)
+      251    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:405(parent)
+     1998    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+      249    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\history.py:28(append)
+      250    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\event_queue.py:9(push)
+      249    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+      249    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\event_queue.py:12(pop)
+      499    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\simulation\event_queue.py:17(peek_time)
+        1    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\metrics\performance.py:92(summary)
+      500    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\core\clock\discrete_clock.py:14(advance)
+      249    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\knowledge\statistics.py:14(update)
+        1    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\environment.py:70(reset)
+      249    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\src\aegis_scan\environment\ground_truth.py:57(get_signals_in_band)
+      755    0.000    0.000    0.000    0.000 C:\Users\mehta\Desktop\Aeronotics\aegis-scan\.venv\Lib\site-packages\numpy\_core\multiarray.py:1085(copyto)
+      748    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+
+

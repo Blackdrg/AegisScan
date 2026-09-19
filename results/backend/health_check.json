@@ -1,0 +1,22 @@
+{
+  "endpoint": "/api/v1/system/health",
+  "status_code": 200,
+  "response": {
+    "api": {
+      "status": "healthy",
+      "detail": "FastAPI responding"
+    },
+    "engine": {
+      "status": "idle",
+      "detail": "No active simulation"
+    },
+    "session_registry": {
+      "status": "healthy",
+      "detail": "78 simulation(s) in session"
+    },
+    "uptime_seconds": 3.682589,
+    "timestamp": "2026-09-19T08:42:39.018139+00:00"
+  },
+  "latency_ms": 2092.7407000000358,
+  "timestamp": 1789807359.0679193
+}

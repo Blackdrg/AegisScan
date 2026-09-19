@@ -1,0 +1,24 @@
+{
+    "agent_name": "UCB",
+    "agent_type": "classical",
+    "seed": 42,
+    "episodes": 2,
+    "metrics": {
+        "episode_rewards": [
+            22.46729999999999,
+            11.458499999999995
+        ],
+        "episode_mean_aoi": [
+            5.326999999999999,
+            5.414999999999999
+        ],
+        "episode_hits": [
+            28,
+            17
+        ],
+        "episode_steps": [
+            100,
+            100
+        ]
+    }
+}

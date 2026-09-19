@@ -1,0 +1,20 @@
+{
+    "agent_name": "LinUCB",
+    "agent_type": "classical",
+    "seed": 45,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            47.26979999999999
+        ],
+        "episode_mean_aoi": [
+            4.604
+        ],
+        "episode_hits": [
+            50
+        ],
+        "episode_steps": [
+            50
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "timestamp": 1789675869.1178656,
+  "seed": 42,
+  "dataset_version": "v1",
+  "rf_model_hash": "c5d80b6a...",
+  "ir_model_hash": "f9e2b10a...",
+  "scenario": "Two Periodic Emitters",
+  "duration": 500,
+  "fusion_methods_tested": [
+    "mean",
+    "max",
+    "dempster_shafer"
+  ]
+}

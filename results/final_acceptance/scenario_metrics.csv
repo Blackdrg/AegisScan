@@ -1,0 +1,10 @@
+scenario,TP,FP,TN,FN,Pd,Pfa,Precision,Recall,scans,detections
+Scenario A - Noise Only,0,31,468,0,,0.06212424849699399,0.0,,499,31
+Scenario B - Single Emitter,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario C - Multi Emitter,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario D - Periodic Emitter,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario E - Changing SNR - 10dB,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario E - Changing SNR - 5dB,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario E - Changing SNR - 0dB,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario E - Changing SNR - -5dB,0,77,422,0,,0.15430861723446893,0.0,,499,77
+Scenario F - Jamming,0,77,422,0,,0.15430861723446893,0.0,,499,77

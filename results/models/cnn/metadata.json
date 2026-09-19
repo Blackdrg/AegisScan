@@ -1,0 +1,27 @@
+{
+  "model_name": "multi_mod_presence",
+  "model_version": "1.0",
+  "task": "binary_signal_presence_detection",
+  "modulations": [
+    "cw",
+    "bpsk",
+    "qpsk",
+    "bfsk",
+    "fmcw"
+  ],
+  "architecture": "LightweightCNN",
+  "input_representation": "log_power_spectrogram",
+  "preprocessing": {
+    "normalization": "z_score"
+  },
+  "training_config": {
+    "seed": 42,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "epochs": 20,
+    "checkpoint_dir": "results/models/cnn"
+  },
+  "metrics": {
+    "best_val_acc": 0.997
+  }
+}

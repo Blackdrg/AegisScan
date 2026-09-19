@@ -1,0 +1,4 @@
+endpoint,method,status_code,latency_ms
+/api/v1/system/health,GET,200,2052.6786000000357
+/api/v1/scenarios,GET,200,2071.903500000076
+/api/v1/simulations,GET,200,2062.0674000000463

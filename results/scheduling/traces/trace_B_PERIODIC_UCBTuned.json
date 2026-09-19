@@ -1,0 +1,3330 @@
+[
+  {
+    "step": 1,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.8181818181818181,
+    "detected": true
+  },
+  {
+    "step": 3,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 5,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 7,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 9,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 11,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 13,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 15,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 17,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 19,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 21,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9878048780487806,
+    "detected": true
+  },
+  {
+    "step": 22,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.8950276243093931,
+    "detected": false
+  },
+  {
+    "step": 23,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.47299270072992916,
+    "detected": false
+  },
+  {
+    "step": 24,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.08631943519381975,
+    "detected": false
+  },
+  {
+    "step": 26,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 28,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 30,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 32,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 34,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 36,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 38,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 40,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 42,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 44,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.009846752319229357,
+    "detected": false
+  },
+  {
+    "step": 45,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.001045713241384271,
+    "detected": false
+  },
+  {
+    "step": 47,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 49,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 51,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 53,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 55,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.04749340369393138,
+    "detected": true
+  },
+  {
+    "step": 56,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00522117476432197,
+    "detected": false
+  },
+  {
+    "step": 57,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607712,
+    "detected": false
+  },
+  {
+    "step": 59,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 61,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 63,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 65,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 67,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.018494067002146605,
+    "detected": true
+  },
+  {
+    "step": 68,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.25326645168275375,
+    "detected": true
+  },
+  {
+    "step": 69,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.8592537232751222,
+    "detected": true
+  },
+  {
+    "step": 70,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.39122012613807167,
+    "detected": false
+  },
+  {
+    "step": 71,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.06335929344272188,
+    "detected": false
+  },
+  {
+    "step": 72,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.007070208692008081,
+    "detected": false
+  },
+  {
+    "step": 73,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.11360872119836696,
+    "detected": true
+  },
+  {
+    "step": 74,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.013311973661587468,
+    "detected": false
+  },
+  {
+    "step": 75,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0014181515823092738,
+    "detected": false
+  },
+  {
+    "step": 77,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": false
+  },
+  {
+    "step": 79,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00014946877073536096,
+    "detected": false
+  },
+  {
+    "step": 80,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.5735659226032775e-05,
+    "detected": false
+  },
+  {
+    "step": 82,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 84,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 86,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 88,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 90,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 92,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 94,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 96,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 98,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 100,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00028316611737462473,
+    "detected": true
+  },
+  {
+    "step": 101,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00507257164563725,
+    "detected": true
+  },
+  {
+    "step": 102,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.08405768308464706,
+    "detected": true
+  },
+  {
+    "step": 103,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.6229108160745538,
+    "detected": true
+  },
+  {
+    "step": 104,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9674628147336873,
+    "detected": true
+  },
+  {
+    "step": 105,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9981350701142938,
+    "detected": true
+  },
+  {
+    "step": 106,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9998962099764059,
+    "detected": true
+  },
+  {
+    "step": 107,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999942333223059,
+    "detected": true
+  },
+  {
+    "step": 108,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999996796272722,
+    "detected": true
+  },
+  {
+    "step": 109,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999822015097,
+    "detected": true
+  },
+  {
+    "step": 110,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999990111951,
+    "detected": true
+  },
+  {
+    "step": 111,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999450664,
+    "detected": true
+  },
+  {
+    "step": 112,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999969481,
+    "detected": true
+  },
+  {
+    "step": 113,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999998305,
+    "detected": true
+  },
+  {
+    "step": 114,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999999907,
+    "detected": true
+  },
+  {
+    "step": 115,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999999996,
+    "detected": true
+  },
+  {
+    "step": 116,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 117,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 118,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 119,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 120,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 121,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 122,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 123,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 124,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 125,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 126,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 127,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 128,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 129,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 130,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 131,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 132,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 133,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 134,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 135,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 136,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 137,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 138,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 139,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 140,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 141,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 142,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 143,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 144,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 145,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 146,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 147,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 148,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 150,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 152,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 153,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 154,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 155,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 156,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 157,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 158,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 159,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 160,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 161,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 162,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 163,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 164,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 165,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 166,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 167,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 168,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 169,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 170,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 171,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 172,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 173,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 174,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 175,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 176,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 177,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 178,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 179,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 180,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 181,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 182,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 183,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 184,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 185,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 186,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 187,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 188,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 189,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 191,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607713,
+    "detected": true
+  },
+  {
+    "step": 192,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.8152612647466295e-05,
+    "detected": false
+  },
+  {
+    "step": 193,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.121646164217956e-06,
+    "detected": false
+  },
+  {
+    "step": 194,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.443873362382852e-07,
+    "detected": false
+  },
+  {
+    "step": 196,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 198,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 200,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 202,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 204,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 206,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 208,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 210,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 211,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 212,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 213,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 214,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 215,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 216,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 217,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 218,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 219,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 220,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 221,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 222,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 223,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 224,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 225,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 226,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 227,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 228,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 229,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 230,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 231,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 232,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 233,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 234,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 235,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 236,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 237,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 238,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 239,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 240,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 241,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 243,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785127e-08,
+    "detected": false
+  },
+  {
+    "step": 245,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 247,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 248,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 249,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 250,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 251,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 252,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 253,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 254,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 255,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 256,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 257,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 258,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 259,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 260,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 261,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 262,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 263,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 264,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 265,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 266,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 267,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 268,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 269,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 270,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 271,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 272,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 273,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 274,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 275,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 276,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 277,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 278,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 279,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 280,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 281,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 282,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 283,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 284,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 285,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 286,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 287,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 288,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 289,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 290,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 291,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 293,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 295,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 297,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": true
+  },
+  {
+    "step": 298,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 299,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 300,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 302,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 304,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 306,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 308,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": true
+  },
+  {
+    "step": 309,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 310,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 311,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 313,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 314,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 315,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 316,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 317,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 318,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 319,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 320,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 321,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 322,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 323,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 324,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 325,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 326,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 327,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 328,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 329,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 330,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 331,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 332,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 333,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 334,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 336,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.14003043626198e-09,
+    "detected": false
+  },
+  {
+    "step": 338,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 340,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 342,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 344,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 345,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 346,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 347,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 348,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 349,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 350,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 351,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 352,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 353,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 354,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 355,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 356,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 357,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 358,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 359,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 360,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 361,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 362,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 363,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 364,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 365,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 366,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 367,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 368,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 369,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 370,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 371,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 372,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 373,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 374,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 375,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 376,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 377,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 378,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 379,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 380,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 381,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 382,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 383,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 384,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 385,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 386,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 387,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 388,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 389,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 390,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 391,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 392,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 393,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 394,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 395,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 396,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 397,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 399,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 401,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 403,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 405,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 407,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.121646164217956e-06,
+    "detected": true
+  },
+  {
+    "step": 408,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.443873362382852e-07,
+    "detected": false
+  },
+  {
+    "step": 409,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1598844991759064e-05,
+    "detected": true
+  },
+  {
+    "step": 410,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00020873805080664495,
+    "detected": true
+  },
+  {
+    "step": 411,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.1976530861208034e-05,
+    "detected": false
+  },
+  {
+    "step": 412,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.313364526198601e-06,
+    "detected": false
+  },
+  {
+    "step": 413,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.4351255942439914e-07,
+    "detected": false
+  },
+  {
+    "step": 414,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.5632906576930944e-08,
+    "detected": false
+  },
+  {
+    "step": 415,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.6982007541909605e-09,
+    "detected": false
+  },
+  {
+    "step": 416,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.840211327057791e-10,
+    "detected": false
+  },
+  {
+    "step": 418,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 419,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 420,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 421,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 422,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 424,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.112380364019615e-09,
+    "detected": true
+  },
+  {
+    "step": 425,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.38145303937352e-10,
+    "detected": false
+  },
+  {
+    "step": 426,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.6646874125944004e-11,
+    "detected": false
+  },
+  {
+    "step": 428,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 430,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.962828855664746e-12,
+    "detected": false
+  },
+  {
+    "step": 432,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 433,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 434,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 436,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869151e-10,
+    "detected": false
+  },
+  {
+    "step": 438,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2852053225282685e-07,
+    "detected": true
+  },
+  {
+    "step": 439,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3528478634912492e-08,
+    "detected": false
+  },
+  {
+    "step": 440,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4240503998596833e-09,
+    "detected": false
+  },
+  {
+    "step": 441,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4990004228148815e-10,
+    "detected": false
+  },
+  {
+    "step": 443,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869147e-10,
+    "detected": false
+  },
+  {
+    "step": 445,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869147e-10,
+    "detected": false
+  },
+  {
+    "step": 447,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 448,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 449,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 450,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 451,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 452,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 453,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 454,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 455,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 456,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 457,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 458,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 459,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 460,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 461,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 462,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 463,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 464,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 465,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 466,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 467,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 468,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 469,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 470,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 471,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 472,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 473,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 474,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 475,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 476,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 477,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 478,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 479,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 480,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 481,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 482,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 483,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 484,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 485,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 486,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 487,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 488,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 489,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 490,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 491,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 492,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 493,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 494,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 495,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 496,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 497,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 498,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 499,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": false
+  },
+  {
+    "step": 500,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  }
+]

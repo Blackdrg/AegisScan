@@ -1,0 +1,32 @@
+{
+    "agent_name": "EarliestAoI",
+    "agent_type": "classical",
+    "seed": 50,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            6.287
+        ],
+        "episode_mean_aoi": [
+            4.26
+        ],
+        "episode_hits": [
+            9
+        ],
+        "episode_steps": [
+            50
+        ],
+        "episode_p_fa": [
+            1.0
+        ],
+        "episode_coverage": [
+            1.0
+        ],
+        "episode_latency": [
+            13.687820434570312
+        ],
+        "episode_p_d": [
+            1.0
+        ]
+    }
+}

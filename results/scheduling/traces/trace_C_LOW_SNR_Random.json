@@ -1,0 +1,2098 @@
+[
+  {
+    "step": 2,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 4,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 6,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 8,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 10,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 12,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 14,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 16,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 18,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 20,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 21,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.04749340369393138,
+    "detected": true
+  },
+  {
+    "step": 23,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 25,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 27,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00522117476432197,
+    "detected": false
+  },
+  {
+    "step": 29,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 31,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 33,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607712,
+    "detected": false
+  },
+  {
+    "step": 35,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 37,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 39,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 41,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 43,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.8181818181818181,
+    "detected": true
+  },
+  {
+    "step": 44,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9878048780487806,
+    "detected": true
+  },
+  {
+    "step": 46,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 48,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 50,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 52,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 54,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9993145990404386,
+    "detected": true
+  },
+  {
+    "step": 56,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 58,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00522117476432197,
+    "detected": true
+  },
+  {
+    "step": 60,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 62,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607712,
+    "detected": false
+  },
+  {
+    "step": 64,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": false
+  },
+  {
+    "step": 66,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999618975042865,
+    "detected": true
+  },
+  {
+    "step": 68,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.025641025641025637,
+    "detected": false
+  },
+  {
+    "step": 70,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 71,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 73,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 75,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 77,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 79,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999978831185051,
+    "detected": true
+  },
+  {
+    "step": 81,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 83,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607713,
+    "detected": true
+  },
+  {
+    "step": 85,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 87,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 88,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 90,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999998823952374,
+    "detected": true
+  },
+  {
+    "step": 92,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 94,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.8152612647466295e-05,
+    "detected": false
+  },
+  {
+    "step": 96,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.002762430939226519,
+    "detected": false
+  },
+  {
+    "step": 98,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 100,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999934664014,
+    "detected": true
+  },
+  {
+    "step": 102,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0002915026963999416,
+    "detected": false
+  },
+  {
+    "step": 104,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.768349409621717e-09,
+    "detected": false
+  },
+  {
+    "step": 106,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": false
+  },
+  {
+    "step": 108,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 110,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.966683602449883e-10,
+    "detected": false
+  },
+  {
+    "step": 112,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 114,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.04749340369393138,
+    "detected": true
+  },
+  {
+    "step": 116,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 118,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 119,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 121,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.175456425113382e-11,
+    "detected": false
+  },
+  {
+    "step": 123,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00522117476432197,
+    "detected": false
+  },
+  {
+    "step": 125,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 127,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 129,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 131,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0692499520429676e-05,
+    "detected": false
+  },
+  {
+    "step": 133,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.768349409621717e-09,
+    "detected": false
+  },
+  {
+    "step": 135,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 137,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.966683602449883e-10,
+    "detected": false
+  },
+  {
+    "step": 139,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999996370224,
+    "detected": true
+  },
+  {
+    "step": 141,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.001045713241384262,
+    "detected": true
+  },
+  {
+    "step": 142,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.00011017816493633022,
+    "detected": false
+  },
+  {
+    "step": 144,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 146,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.175456425113382e-11,
+    "detected": false
+  },
+  {
+    "step": 148,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.0005521768806607712,
+    "detected": false
+  },
+  {
+    "step": 150,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999798346,
+    "detected": true
+  },
+  {
+    "step": 151,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999988797,
+    "detected": true
+  },
+  {
+    "step": 153,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.395217289757235e-12,
+    "detected": false
+  },
+  {
+    "step": 155,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.395217289757235e-12,
+    "detected": false
+  },
+  {
+    "step": 157,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 159,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.626544515552125e-13,
+    "detected": false
+  },
+  {
+    "step": 161,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 163,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.159884499175906e-05,
+    "detected": false
+  },
+  {
+    "step": 164,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2209437226129904e-06,
+    "detected": false
+  },
+  {
+    "step": 166,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999999377,
+    "detected": true
+  },
+  {
+    "step": 168,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.8700468584779365e-14,
+    "detected": false
+  },
+  {
+    "step": 170,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869147e-10,
+    "detected": false
+  },
+  {
+    "step": 172,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.626544515552125e-13,
+    "detected": false
+  },
+  {
+    "step": 174,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.768349409621717e-09,
+    "detected": false
+  },
+  {
+    "step": 176,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.8700468584779365e-14,
+    "detected": false
+  },
+  {
+    "step": 178,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.126365114187524e-15,
+    "detected": false
+  },
+  {
+    "step": 180,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.815261264746629e-05,
+    "detected": false
+  },
+  {
+    "step": 182,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.2308781486422007e-06,
+    "detected": false
+  },
+  {
+    "step": 183,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.400934198363778e-07,
+    "detected": false
+  },
+  {
+    "step": 185,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.396173804407944e-16,
+    "detected": false
+  },
+  {
+    "step": 187,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869147e-10,
+    "detected": false
+  },
+  {
+    "step": 189,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.443873362382851e-07,
+    "detected": true
+  },
+  {
+    "step": 191,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.1216461642179544e-06,
+    "detected": false
+  },
+  {
+    "step": 193,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3528478634912489e-08,
+    "detected": true
+  },
+  {
+    "step": 194,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.424050399859683e-09,
+    "detected": false
+  },
+  {
+    "step": 196,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.91139112097189e-11,
+    "detected": false
+  },
+  {
+    "step": 198,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2852053225282688e-07,
+    "detected": false
+  },
+  {
+    "step": 200,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785124e-08,
+    "detected": false
+  },
+  {
+    "step": 202,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.327780127928322e-12,
+    "detected": false
+  },
+  {
+    "step": 204,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.579931824471943e-08,
+    "detected": false
+  },
+  {
+    "step": 206,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.966683602449883e-10,
+    "detected": false
+  },
+  {
+    "step": 208,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.766084345253023e-13,
+    "detected": false
+  },
+  {
+    "step": 210,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.44387336238285e-07,
+    "detected": false
+  },
+  {
+    "step": 212,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.175456425113382e-11,
+    "detected": false
+  },
+  {
+    "step": 214,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999999966,
+    "detected": true
+  },
+  {
+    "step": 216,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.140030436261977e-09,
+    "detected": false
+  },
+  {
+    "step": 218,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3528478634912494e-08,
+    "detected": false
+  },
+  {
+    "step": 220,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.783028502785123e-08,
+    "detected": false
+  },
+  {
+    "step": 222,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.227457205536732e-14,
+    "detected": false
+  },
+  {
+    "step": 224,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.395217289757235e-12,
+    "detected": false
+  },
+  {
+    "step": 226,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.1400304362619755e-09,
+    "detected": false
+  },
+  {
+    "step": 228,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.768349409621717e-09,
+    "detected": false
+  },
+  {
+    "step": 230,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.126365114187524e-15,
+    "detected": false
+  },
+  {
+    "step": 232,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.626544515552125e-13,
+    "detected": false
+  },
+  {
+    "step": 234,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.713112847934202e-15,
+    "detected": false
+  },
+  {
+    "step": 236,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.966683602449883e-10,
+    "detected": false
+  },
+  {
+    "step": 238,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.396173804407944e-16,
+    "detected": false
+  },
+  {
+    "step": 240,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 0.9999999999999998,
+    "detected": true
+  },
+  {
+    "step": 242,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869149e-10,
+    "detected": false
+  },
+  {
+    "step": 244,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0224329313615035e-15,
+    "detected": false
+  },
+  {
+    "step": 246,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.911391120971893e-11,
+    "detected": false
+  },
+  {
+    "step": 248,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.327780127928327e-12,
+    "detected": true
+  },
+  {
+    "step": 250,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.175456425113382e-11,
+    "detected": false
+  },
+  {
+    "step": 251,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.395217289757235e-12,
+    "detected": false
+  },
+  {
+    "step": 253,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4240503998596835e-09,
+    "detected": false
+  },
+  {
+    "step": 255,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4990004228148815e-10,
+    "detected": false
+  },
+  {
+    "step": 257,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.327780127928325e-12,
+    "detected": false
+  },
+  {
+    "step": 259,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0762451909068466e-16,
+    "detected": false
+  },
+  {
+    "step": 260,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1328896746387858e-17,
+    "detected": false
+  },
+  {
+    "step": 262,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 264,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.680182952008365e-17,
+    "detected": false
+  },
+  {
+    "step": 266,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.5778951821220303e-11,
+    "detected": false
+  },
+  {
+    "step": 268,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.979139949482488e-18,
+    "detected": false
+  },
+  {
+    "step": 270,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.766084345253026e-13,
+    "detected": false
+  },
+  {
+    "step": 272,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.680182952008365e-17,
+    "detected": false
+  },
+  {
+    "step": 274,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4990004228148817e-10,
+    "detected": false
+  },
+  {
+    "step": 275,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.5778951821220306e-11,
+    "detected": false
+  },
+  {
+    "step": 277,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 279,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0224329313615049e-15,
+    "detected": true
+  },
+  {
+    "step": 281,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.766084345253029e-13,
+    "detected": false
+  },
+  {
+    "step": 282,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.227457205536739e-14,
+    "detected": false
+  },
+  {
+    "step": 284,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6609422969940074e-12,
+    "detected": false
+  },
+  {
+    "step": 285,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.748360312627869e-13,
+    "detected": false
+  },
+  {
+    "step": 287,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1925154469881953e-18,
+    "detected": false
+  },
+  {
+    "step": 289,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0762451909068482e-16,
+    "detected": false
+  },
+  {
+    "step": 291,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2552794178823107e-19,
+    "detected": false
+  },
+  {
+    "step": 293,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6609422969940072e-12,
+    "detected": false
+  },
+  {
+    "step": 295,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.713112847934208e-15,
+    "detected": false
+  },
+  {
+    "step": 297,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1328896746387875e-17,
+    "detected": false
+  },
+  {
+    "step": 299,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0224329313615043e-15,
+    "detected": false
+  },
+  {
+    "step": 301,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.626544515552125e-13,
+    "detected": false
+  },
+  {
+    "step": 303,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.840379276450676e-14,
+    "detected": false
+  },
+  {
+    "step": 305,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 307,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.515821559869147e-10,
+    "detected": false
+  },
+  {
+    "step": 309,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.32134675566559e-20,
+    "detected": false
+  },
+  {
+    "step": 311,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 313,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.8700468584779365e-14,
+    "detected": false
+  },
+  {
+    "step": 315,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3908913217532524e-21,
+    "detected": false
+  },
+  {
+    "step": 316,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.464096128161318e-22,
+    "detected": false
+  },
+  {
+    "step": 318,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.29383152577104e-19,
+    "detected": false
+  },
+  {
+    "step": 319,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.625085816601093e-20,
+    "detected": false
+  },
+  {
+    "step": 321,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.989696134504796e-11,
+    "detected": true
+  },
+  {
+    "step": 323,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.5411538191171766e-23,
+    "detected": false
+  },
+  {
+    "step": 325,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.9372413436323223e-15,
+    "detected": false
+  },
+  {
+    "step": 327,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 329,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.1470485627208104e-12,
+    "detected": false
+  },
+  {
+    "step": 331,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.126365114187524e-15,
+    "detected": false
+  },
+  {
+    "step": 333,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0762451909068475e-16,
+    "detected": false
+  },
+  {
+    "step": 335,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 337,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1925154469881972e-18,
+    "detected": false
+  },
+  {
+    "step": 339,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.3126826976101804e-13,
+    "detected": false
+  },
+  {
+    "step": 340,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.4870344185380655e-14,
+    "detected": false
+  },
+  {
+    "step": 341,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.670562545829657e-15,
+    "detected": false
+  },
+  {
+    "step": 343,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.91139112097189e-11,
+    "detected": false
+  },
+  {
+    "step": 345,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6222671780180802e-24,
+    "detected": false
+  },
+  {
+    "step": 347,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.973774543790623e-21,
+    "detected": false
+  },
+  {
+    "step": 349,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.327780127928322e-12,
+    "detected": false
+  },
+  {
+    "step": 351,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.707649661071663e-25,
+    "detected": false
+  },
+  {
+    "step": 353,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2552794178823128e-19,
+    "detected": false
+  },
+  {
+    "step": 355,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1328896746387869e-17,
+    "detected": false
+  },
+  {
+    "step": 357,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3213467556655922e-20,
+    "detected": false
+  },
+  {
+    "step": 359,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 361,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.227457205536735e-14,
+    "detected": false
+  },
+  {
+    "step": 363,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.039201414349816e-16,
+    "detected": false
+  },
+  {
+    "step": 365,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1925154469881966e-18,
+    "detected": false
+  },
+  {
+    "step": 367,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.863750048241756e-16,
+    "detected": false
+  },
+  {
+    "step": 369,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 371,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.396173804407944e-16,
+    "detected": false
+  },
+  {
+    "step": 373,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.7975259590228028e-26,
+    "detected": false
+  },
+  {
+    "step": 375,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 8.766084345253023e-13,
+    "detected": false
+  },
+  {
+    "step": 377,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.713112847934205e-15,
+    "detected": false
+  },
+  {
+    "step": 379,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.067105313938692e-17,
+    "detected": false
+  },
+  {
+    "step": 381,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.8921325884450552e-27,
+    "detected": false
+  },
+  {
+    "step": 383,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 7.340815309253286e-22,
+    "detected": false
+  },
+  {
+    "step": 385,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.227457205536732e-14,
+    "detected": false
+  },
+  {
+    "step": 387,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3908913217532547e-21,
+    "detected": false
+  },
+  {
+    "step": 389,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.9917185141526894e-28,
+    "detected": false
+  },
+  {
+    "step": 391,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 9.713112847934202e-15,
+    "detected": false
+  },
+  {
+    "step": 393,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3213467556655914e-20,
+    "detected": true
+  },
+  {
+    "step": 395,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2552794178823119e-19,
+    "detected": false
+  },
+  {
+    "step": 397,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.680182952008365e-17,
+    "detected": false
+  },
+  {
+    "step": 399,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.5850933254748404e-27,
+    "detected": true
+  },
+  {
+    "step": 401,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.281163488356517e-18,
+    "detected": false
+  },
+  {
+    "step": 403,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0224329313615035e-15,
+    "detected": false
+  },
+  {
+    "step": 405,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4640961281613206e-22,
+    "detected": false
+  },
+  {
+    "step": 407,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3213467556655913e-20,
+    "detected": false
+  },
+  {
+    "step": 409,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.7737824478682523e-28,
+    "detected": false
+  },
+  {
+    "step": 411,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.506487882480544e-19,
+    "detected": false
+  },
+  {
+    "step": 413,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.9724025767034225e-29,
+    "detected": false
+  },
+  {
+    "step": 415,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.5411538191171792e-23,
+    "detected": false
+  },
+  {
+    "step": 417,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.743671455242677e-20,
+    "detected": false
+  },
+  {
+    "step": 419,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0224329313615041e-15,
+    "detected": false
+  },
+  {
+    "step": 421,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3908913217532537e-21,
+    "detected": false
+  },
+  {
+    "step": 423,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 425,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6222671780180831e-24,
+    "detected": false
+  },
+  {
+    "step": 427,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3908913217532537e-21,
+    "detected": false
+  },
+  {
+    "step": 429,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 431,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4640961281613194e-22,
+    "detected": false
+  },
+  {
+    "step": 433,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 435,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0762451909068466e-16,
+    "detected": false
+  },
+  {
+    "step": 436,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1328896746387858e-17,
+    "detected": false
+  },
+  {
+    "step": 438,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.99333837393966e-21,
+    "detected": false
+  },
+  {
+    "step": 440,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.979139949482488e-18,
+    "detected": false
+  },
+  {
+    "step": 442,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.541153819117178e-23,
+    "detected": false
+  },
+  {
+    "step": 444,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.29383152577104e-19,
+    "detected": false
+  },
+  {
+    "step": 446,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.1465278045787537e-17,
+    "detected": false
+  },
+  {
+    "step": 448,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.1814763965299174e-30,
+    "detected": false
+  },
+  {
+    "step": 449,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.4015541016104385e-31,
+    "detected": false
+  },
+  {
+    "step": 451,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6222671780180818e-24,
+    "detected": false
+  },
+  {
+    "step": 453,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 455,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.92008092043255e-23,
+    "detected": true
+  },
+  {
+    "step": 457,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.4640961281613194e-22,
+    "detected": false
+  },
+  {
+    "step": 459,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 461,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.541153819117178e-23,
+    "detected": false
+  },
+  {
+    "step": 463,
+    "band": 3,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 6.625085816601093e-20,
+    "detected": false
+  },
+  {
+    "step": 465,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0762451909068472e-16,
+    "detected": false
+  },
+  {
+    "step": 467,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 2.259502952188161e-18,
+    "detected": false
+  },
+  {
+    "step": 468,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.06710531393869e-17,
+    "detected": true
+  },
+  {
+    "step": 470,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1328896746387864e-17,
+    "detected": false
+  },
+  {
+    "step": 471,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.192515446988196e-18,
+    "detected": false
+  },
+  {
+    "step": 473,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.256145656778589e-22,
+    "detected": false
+  },
+  {
+    "step": 475,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.6332148438004606e-32,
+    "detected": false
+  },
+  {
+    "step": 477,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2552794178823114e-19,
+    "detected": false
+  },
+  {
+    "step": 479,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.1925154469881953e-18,
+    "detected": false
+  },
+  {
+    "step": 480,
+    "band": 7,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.2552794178823107e-19,
+    "detected": false
+  },
+  {
+    "step": 482,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.6222671780180818e-24,
+    "detected": false
+  },
+  {
+    "step": 484,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.877068256632063e-33,
+    "detected": false
+  },
+  {
+    "step": 486,
+    "band": 2,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 3.0737693899289992e-24,
+    "detected": false
+  },
+  {
+    "step": 488,
+    "band": 1,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.7076496610716648e-25,
+    "detected": false
+  },
+  {
+    "step": 490,
+    "band": 0,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.0,
+    "detected": true
+  },
+  {
+    "step": 492,
+    "band": 6,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 4.281163488356515e-18,
+    "detected": false
+  },
+  {
+    "step": 494,
+    "band": 4,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.532784901872197e-23,
+    "detected": false
+  },
+  {
+    "step": 496,
+    "band": 9,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 5.133756059612696e-34,
+    "detected": false
+  },
+  {
+    "step": 498,
+    "band": 8,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.3213467556655907e-20,
+    "detected": false
+  },
+  {
+    "step": 500,
+    "band": 5,
+    "modality": "RF",
+    "aoi": 0.0,
+    "belief": 1.7076496610716648e-25,
+    "detected": false
+  }
+]

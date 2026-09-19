@@ -1,0 +1,70 @@
+{
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "timesteps_per_seed": 15000,
+  "per_seed": [
+    {
+      "seed": 42,
+      "timesteps": 15000,
+      "training_time_s": 23.56,
+      "eval_mean_reward": 262.0,
+      "eval_std_reward": 0.6325,
+      "model_path": "results\\rl\\dqn_seed42.zip",
+      "obs_validated": true,
+      "gamma": 0.99
+    },
+    {
+      "seed": 43,
+      "timesteps": 15000,
+      "training_time_s": 33.05,
+      "eval_mean_reward": 261.2,
+      "eval_std_reward": 2.4,
+      "model_path": "results\\rl\\dqn_seed43.zip",
+      "obs_validated": true,
+      "gamma": 0.99
+    },
+    {
+      "seed": 44,
+      "timesteps": 15000,
+      "training_time_s": 16.86,
+      "eval_mean_reward": 261.8,
+      "eval_std_reward": 1.1662,
+      "model_path": "results\\rl\\dqn_seed44.zip",
+      "obs_validated": true,
+      "gamma": 0.99
+    },
+    {
+      "seed": 45,
+      "timesteps": 15000,
+      "training_time_s": 16.32,
+      "eval_mean_reward": 261.2,
+      "eval_std_reward": 2.4,
+      "model_path": "results\\rl\\dqn_seed45.zip",
+      "obs_validated": true,
+      "gamma": 0.99
+    },
+    {
+      "seed": 46,
+      "timesteps": 15000,
+      "training_time_s": 14.26,
+      "eval_mean_reward": 261.2,
+      "eval_std_reward": 2.4,
+      "model_path": "results\\rl\\dqn_seed46.zip",
+      "obs_validated": true,
+      "gamma": 0.99
+    }
+  ],
+  "aggregate": {
+    "mean_reward": 261.48,
+    "std_reward": 0.3487,
+    "min_reward": 261.2,
+    "max_reward": 262.0
+  },
+  "obs_leakage_validated": true,
+  "temporal_discount_gamma": 0.99
+}

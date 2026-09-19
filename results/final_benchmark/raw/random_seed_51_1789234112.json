@@ -1,0 +1,20 @@
+{
+    "agent_name": "Random",
+    "agent_type": "classical",
+    "seed": 51,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            47.15859999999999
+        ],
+        "episode_mean_aoi": [
+            6.828
+        ],
+        "episode_hits": [
+            50
+        ],
+        "episode_steps": [
+            50
+        ]
+    }
+}

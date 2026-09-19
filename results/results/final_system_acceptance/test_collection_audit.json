@@ -1,0 +1,23 @@
+{
+    "old_baseline_count": 266,
+    "current_count": 282,
+    "added_tests": [
+        "tests/api/test_integration.py::test_benchmarks_list",
+        "tests/api/test_integration.py::test_environment_state",
+        "tests/api/test_integration.py::test_experiments_state",
+        "tests/api/test_integration.py::test_models_list",
+        "tests/api/test_integration.py::test_reasoning_trace",
+        "tests/api/test_integration.py::test_scenarios_create",
+        "tests/api/test_integration.py::test_scenarios_list",
+        "tests/api/test_integration.py::test_simulations_lifecycle",
+        "tests/api/test_integration.py::test_system_health",
+        "tests/api/test_persistence.py::test_persistence_across_restart",
+        "tests/api/test_persistence.py::test_concurrent_writes",
+        "tests/api/test_persistence.py::test_schema_migration",
+        "tests/api/test_environment.py::test_environment_geography",
+        "tests/api/test_environment.py::test_environment_update",
+        "tests/api/test_environment.py::test_environment_noise",
+        "tests/api/test_environment.py::test_environment_interference"
+    ],
+    "removed_tests": []
+}

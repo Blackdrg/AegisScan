@@ -1,0 +1,16 @@
+experiment_name,total_observations,total_hits,total_misses,total_false_alarms,total_correct_rejections,total_time_consumed,hit_rate,false_alarm_rate,scheduler,seed,scenario
+experiment,103,6,0,6,91,301,1.0,0.061855670103092786,predictive_ucb,42,periodic
+experiment,103,8,0,5,90,300,1.0,0.05263157894736842,predictive_ucb,43,periodic
+experiment,104,8,0,3,93,302,1.0,0.03125,predictive_ucb,44,periodic
+experiment,104,10,0,2,92,300,1.0,0.02127659574468085,predictive_ucb,45,periodic
+experiment,106,12,0,7,87,301,1.0,0.07446808510638298,predictive_ucb,46,periodic
+experiment,150,59,0,5,86,301,1.0,0.054945054945054944,rl,42,periodic
+experiment,150,59,0,4,87,301,1.0,0.04395604395604396,rl,43,periodic
+experiment,150,59,0,6,85,301,1.0,0.06593406593406594,rl,44,periodic
+experiment,150,59,0,3,88,301,1.0,0.03296703296703297,rl,45,periodic
+experiment,150,59,0,7,84,301,1.0,0.07692307692307693,rl,46,periodic
+experiment,150,59,0,5,86,301,1.0,0.054945054945054944,recurrent_rl,42,periodic
+experiment,150,59,0,4,87,301,1.0,0.04395604395604396,recurrent_rl,43,periodic
+experiment,150,59,0,6,85,301,1.0,0.06593406593406594,recurrent_rl,44,periodic
+experiment,150,59,0,3,88,301,1.0,0.03296703296703297,recurrent_rl,45,periodic
+experiment,150,59,0,7,84,301,1.0,0.07692307692307693,recurrent_rl,46,periodic

@@ -1,0 +1,3 @@
+Pd,Pfa,total_scans,total_switches,rf_utilization,ir_utilization,mean_aoi,max_aoi,latency_mean,latency_p95,type
+0.0,0.20318725099601595,251,0,1.0,0.0,0.0,0.0,2.2033729663466116e-05,6.301000103121622e-05,Fixed
+0.0,0.20717131474103587,251,0,1.0,0.0,0.0,0.0,5.817539746954387e-05,6.654499738942832e-05,Adaptive

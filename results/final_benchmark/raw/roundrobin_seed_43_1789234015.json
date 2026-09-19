@@ -1,0 +1,20 @@
+{
+    "agent_name": "RoundRobin",
+    "agent_type": "classical",
+    "seed": 43,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            47.28700000000002
+        ],
+        "episode_mean_aoi": [
+            4.26
+        ],
+        "episode_hits": [
+            50
+        ],
+        "episode_steps": [
+            50
+        ]
+    }
+}

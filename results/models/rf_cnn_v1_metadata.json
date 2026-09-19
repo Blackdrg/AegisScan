@@ -1,0 +1,19 @@
+{
+  "model_version": "v1.0.0",
+  "dataset_version": "v1",
+  "git_commit": "a6f728d4fd81cb7351471693db49f8efd96f00cf",
+  "training_command": "python src/aegis_scan/ml/train_cnn.py",
+  "seed": 42,
+  "epochs_executed": 50,
+  "best_epoch": 50,
+  "threshold": 0.5,
+  "metrics": {
+    "Pd": 0.9687,
+    "Pfa": 0.0222,
+    "Precision": 0.9767,
+    "Recall": 0.9687,
+    "F1": 0.9727,
+    "Accuracy": 0.9733
+  },
+  "sha256": "e8bce5dc97484e9ef0bc8879a07eac17ba9eb0880225fa9bea61e64a1ce2e7b1"
+}

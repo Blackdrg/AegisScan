@@ -1,0 +1,32 @@
+{
+    "agent_name": "DuelingDQN",
+    "agent_type": "rl",
+    "seed": 48,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            -3.5787
+        ],
+        "episode_mean_aoi": [
+            21.574
+        ],
+        "episode_hits": [
+            0
+        ],
+        "episode_steps": [
+            50
+        ],
+        "episode_p_fa": [
+            0.0
+        ],
+        "episode_coverage": [
+            0.2
+        ],
+        "episode_latency": [
+            12.364168167114258
+        ],
+        "episode_p_d": [
+            0.0
+        ]
+    }
+}

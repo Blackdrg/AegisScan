@@ -1,0 +1,8 @@
+{
+  "run_id": "rl_%MYDATE%_%MYTIME%",
+  "config_path": "configs\\train_rl.yaml",
+  "seed": 123,
+  "timestamp": "2026-09-05T20:20:58.466062Z",
+  "git_commit": "890397d7ed3df0fc377f3bd6426b2763b1ea8bf8",
+  "config_hash": "87ccf596af1a28955e42abf84454be554955cec1fa1837565f527b6eec852fa7"
+}

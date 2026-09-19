@@ -1,0 +1,20 @@
+{
+  "run_id": "baseline_certified",
+  "git_commit": "890397d7ed3df0fc377f3bd6426b2763b1ea8bf8",
+  "dataset_hash": "fdde45b3aa7dfd1621f7b08615c113c928cd929df34f90dfbe5fca62473284ef",
+  "config_path": "configs\\suites\\phase21_benchmark.yaml",
+  "config_content": "benchmark:\n  name: \"phase21_benchmark\"\n  modulations:\n    - \"cw\"\n    - \"bpsk\"\n    - \"qpsk\"\n    - \"bfsk\"\n    - \"fmcw\"\n  \n  snr_points: 15\n  snr_range_db:\n    minimum: -15\n    maximum: 15\n    \n  # Development benchmark has 100 trials, Official has 1000 trials\n  trials_per_point: 1000\n  \n  detectors:\n    - name: \"probabilistic\"\n      type: \"probabilistic_energy\"\n      p_false_alarm: 0.01\n    \n    - name: \"iq_energy\"\n      type: \"iq_energy\"\n      p_false_alarm: 0.01\n      noise_floor_dbm: 0.0\n      \n    - name: \"fft_peak\"\n      type: \"fft_peak\"\n      p_false_alarm: 0.01\n      \n    - name: \"cnn\"\n      type: \"cnn\"\n      checkpoint_path: \"models/cnn/multi_mod_presence/v1/model.pt\"\n      detection_threshold: 0.5\n      device: \"cpu\"\n",
+  "seed": 42,
+  "library_versions": {
+    "torch": "2.14.0+cpu",
+    "yaml": "6.0.3",
+    "numpy": "2.4.6"
+  },
+  "hardware": {
+    "gpu_count": 0,
+    "gpus": [],
+    "torch_version": "2.14.0+cpu",
+    "numpy_version": "2.4.6",
+    "cuda_version": null
+  }
+}

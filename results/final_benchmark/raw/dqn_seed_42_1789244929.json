@@ -1,0 +1,32 @@
+{
+    "agent_name": "DQN",
+    "agent_type": "rl",
+    "seed": 42,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            15.386099999999999
+        ],
+        "episode_mean_aoi": [
+            27.342857142857138
+        ],
+        "episode_hits": [
+            1
+        ],
+        "episode_steps": [
+            7
+        ],
+        "episode_p_fa": [
+            0.0
+        ],
+        "episode_coverage": [
+            0.2
+        ],
+        "episode_latency": [
+            84.73052297319684
+        ],
+        "episode_p_d": [
+            1.0
+        ]
+    }
+}

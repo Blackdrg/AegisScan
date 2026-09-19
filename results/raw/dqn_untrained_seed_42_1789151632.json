@@ -1,0 +1,24 @@
+{
+    "agent_name": "DQN_Untrained",
+    "agent_type": "rl",
+    "seed": 42,
+    "episodes": 2,
+    "metrics": {
+        "episode_rewards": [
+            18.455,
+            7.454999999999997
+        ],
+        "episode_mean_aoi": [
+            45.45000000000001,
+            45.45000000000001
+        ],
+        "episode_hits": [
+            28,
+            17
+        ],
+        "episode_steps": [
+            100,
+            100
+        ]
+    }
+}

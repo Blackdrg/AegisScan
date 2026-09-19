@@ -1,0 +1,74 @@
+[
+  {
+    "UI Feature": "Overview",
+    "HTTP/WS Request": "HTTP GET",
+    "Endpoint": "/api/v1/system/health",
+    "Status Code": 200,
+    "Response Summary": "System online status and engine state",
+    "Consuming Component": "OverviewPage.tsx"
+  },
+  {
+    "UI Feature": "Overview",
+    "HTTP/WS Request": "HTTP GET",
+    "Endpoint": "/api/v1/metrics/summary",
+    "Status Code": 200,
+    "Response Summary": "High level metrics (hits, false alarms, etc)",
+    "Consuming Component": "OverviewPage.tsx"
+  },
+  {
+    "UI Feature": "Simulation",
+    "HTTP/WS Request": "HTTP POST",
+    "Endpoint": "/api/v1/simulations",
+    "Status Code": 200,
+    "Response Summary": "Simulation created with ID SIM-...",
+    "Consuming Component": "SimulationPage.tsx"
+  },
+  {
+    "UI Feature": "Simulation",
+    "HTTP/WS Request": "HTTP POST",
+    "Endpoint": "/api/v1/simulations/{id}/start",
+    "Status Code": 200,
+    "Response Summary": "Simulation started",
+    "Consuming Component": "SimulationPage.tsx"
+  },
+  {
+    "UI Feature": "WebSocket Live Data",
+    "HTTP/WS Request": "WebSocket ws://",
+    "Endpoint": "/ws/simulation",
+    "Status Code": 101,
+    "Response Summary": "SIMULATION_TICK events",
+    "Consuming Component": "simulation.ts (Zustand Store)"
+  },
+  {
+    "UI Feature": "Analytics",
+    "HTTP/WS Request": "HTTP GET",
+    "Endpoint": "/api/v1/simulations/{id}/metrics",
+    "Status Code": 200,
+    "Response Summary": "Detailed simulation metrics (P_D, P_FA, etc)",
+    "Consuming Component": "AnalyticsPage.tsx"
+  },
+  {
+    "UI Feature": "Scheduling (Benchmark)",
+    "HTTP/WS Request": "HTTP POST",
+    "Endpoint": "/api/v1/experiments/start",
+    "Status Code": 200,
+    "Response Summary": "Experiment execution started",
+    "Consuming Component": "BenchmarkPage.tsx"
+  },
+  {
+    "UI Feature": "Scheduling (Benchmark Results)",
+    "HTTP/WS Request": "HTTP GET",
+    "Endpoint": "/api/v1/benchmarks",
+    "Status Code": 200,
+    "Response Summary": "List of benchmark runs with AoI and Reward",
+    "Consuming Component": "BenchmarkPage.tsx"
+  },
+  {
+    "UI Feature": "Experiments Registry",
+    "HTTP/WS Request": "HTTP GET",
+    "Endpoint": "/api/v1/simulations",
+    "Status Code": 200,
+    "Response Summary": "List of previously run simulations from SQLite",
+    "Consuming Component": "ExperimentsPage.tsx"
+  }
+]

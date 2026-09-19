@@ -1,0 +1,20 @@
+{
+  "run_id": "rl_dqn_multiseed",
+  "git_commit": "890397d7ed3df0fc377f3bd6426b2763b1ea8bf8",
+  "dataset_hash": "fdde45b3aa7dfd1621f7b08615c113c928cd929df34f90dfbe5fca62473284ef",
+  "config_path": "configs\\rl\\dqn.yaml",
+  "config_content": "experiment:\n  name: \"dqn_training\"\n  seed: 42\n  duration: 1000\n\nenvironment:\n  num_bands: 10\n  noise_floor_dbm: -100.0\n\nreceiver:\n  switching_delay: 1\n  default_dwell_time: 2\n\ndetection:\n  type: \"probabilistic_energy\"\n  p_false_alarm: 0.05\n  seed: 42\n\nscheduler:\n  type: \"round_robin\" # The scheduler configured here is ignored by Gym, but required by ExperimentBuilder\n  dwell_time: 2\n\nemitters:\n  - type: \"periodic\"\n    band_id: 2\n    period: 20\n    on_duration: 5\n    transmit_power_dbm: -80.0\n    \n  - type: \"periodic\"\n    band_id: 8\n    period: 15\n    on_duration: 4\n    transmit_power_dbm: -85.0\n",
+  "seed": 42,
+  "library_versions": {
+    "torch": "2.14.0+cpu",
+    "yaml": "6.0.3",
+    "numpy": "2.4.6"
+  },
+  "hardware": {
+    "gpu_count": 0,
+    "gpus": [],
+    "torch_version": "2.14.0+cpu",
+    "numpy_version": "2.4.6",
+    "cuda_version": null
+  }
+}

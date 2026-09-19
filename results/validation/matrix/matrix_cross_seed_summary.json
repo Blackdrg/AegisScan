@@ -1,0 +1,37 @@
+{
+  "seeds_evaluated": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "total_combinations_per_seed": 300,
+  "detector_summary": {
+    "cnn": {
+      "mean_pd": 1.0,
+      "mean_pfa": 1.0,
+      "max_pd_std_across_seeds": 0.0,
+      "mean_pd_std_across_seeds": 0.0
+    },
+    "fft_peak": {
+      "mean_pd": 0.9833066666666666,
+      "mean_pfa": 0.5820000000000001,
+      "max_pd_std_across_seeds": 0.0,
+      "mean_pd_std_across_seeds": 0.0
+    },
+    "iq_energy": {
+      "mean_pd": 0.8628800000000001,
+      "mean_pfa": 0.012186666666666667,
+      "max_pd_std_across_seeds": 0.0,
+      "mean_pd_std_across_seeds": 0.0
+    },
+    "probabilistic": {
+      "mean_pd": 0.6662666666666667,
+      "mean_pfa": 0.01016,
+      "max_pd_std_across_seeds": 0.0,
+      "mean_pd_std_across_seeds": 0.0
+    }
+  },
+  "status": "COMPLETED_AND_VALIDATED"
+}

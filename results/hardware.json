@@ -1,0 +1,7 @@
+{
+  "gpu_count": 0,
+  "gpus": [],
+  "torch_version": "2.14.0+cpu",
+  "numpy_version": "2.4.6",
+  "cuda_version": null
+}

@@ -1,0 +1,32 @@
+{
+    "agent_name": "Thompson",
+    "agent_type": "classical",
+    "seed": 46,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            13.1086
+        ],
+        "episode_mean_aoi": [
+            7.828
+        ],
+        "episode_hits": [
+            16
+        ],
+        "episode_steps": [
+            50
+        ],
+        "episode_p_fa": [
+            0.0
+        ],
+        "episode_coverage": [
+            1.0
+        ],
+        "episode_latency": [
+            12.769498825073242
+        ],
+        "episode_p_d": [
+            1.0
+        ]
+    }
+}

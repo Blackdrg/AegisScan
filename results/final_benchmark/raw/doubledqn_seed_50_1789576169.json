@@ -1,0 +1,32 @@
+{
+    "agent_name": "DoubleDQN",
+    "agent_type": "rl",
+    "seed": 50,
+    "episodes": 1,
+    "metrics": {
+        "episode_rewards": [
+            12.413299999999996
+        ],
+        "episode_mean_aoi": [
+            24.674999999999997
+        ],
+        "episode_hits": [
+            2
+        ],
+        "episode_steps": [
+            8
+        ],
+        "episode_p_fa": [
+            1.0
+        ],
+        "episode_coverage": [
+            0.2
+        ],
+        "episode_latency": [
+            78.21744680404663
+        ],
+        "episode_p_d": [
+            1.0
+        ]
+    }
+}
