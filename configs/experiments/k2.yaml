@@ -1,0 +1,32 @@
+detection:
+  type: nn
+emitters:
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+- frequency: 500
+  type: Pulsed
+environment:
+  fading: MIXED
+  geography: MOUNTAINOUS
+  num_bands: 32
+experiment:
+  duration: 5000
+  name: K2
+multi_receiver:
+  enabled: true
+  num_receivers: 12
+scheduler:
+  type: dqn
+seed: 85

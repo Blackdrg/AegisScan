@@ -63,3 +63,10 @@ datasets/
 
 # Java/.p2 (Eclipse artifacts)
 .p2/
+
+# Dashboard - Node
+dashboard/node_modules/
+dashboard/dist/
+
+# Large numpy/binary data (tracked via LFS)
+*.npz
